@@ -17,12 +17,7 @@ This is a simple yet elegant website created with the help of a free Bootstrap t
 * Devicon
 * Google Fonts
 
-## Sources
 
-* https://github.com/BlackrockDigital/startbootstrap-resume
-* https://fontawesome.com
-* http://konpa.github.io/devicon/
-* https://formspree.io/
 
 ## Smile Vinocha Personal Website, Open Source Contribution
 
