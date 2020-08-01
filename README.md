@@ -24,6 +24,8 @@ This is a simple yet elegant website created with the help of a free Bootstrap t
 * http://konpa.github.io/devicon/
 * https://formspree.io/
 
+## Smile Vinocha Personal Website, Open Source Contribution
+
 ## How to Use it
 
 After downloading, you can edit the HTML and CSS files to make the changes you want and personalize the template. Check your changes opening the index.html in your browser.
